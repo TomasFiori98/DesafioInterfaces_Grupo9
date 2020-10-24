@@ -1,0 +1,7 @@
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\bin\Debug\Desafio_Interfaces_Grupo9.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\bin\Debug\Desafio_Interfaces_Grupo9.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\bin\Debug\Desafio_Interfaces_Grupo9.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\obj\Debug\Desafio_Interfaces_Grupo9.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\obj\Debug\Desafio_Interfaces_Grupo9.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\obj\Debug\Desafio_Interfaces_Grupo9.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Clase 20 - Desafio Interfaces\Desafio_Interfaces_Grupo9\Desafio_Interfaces_Grupo9\obj\Debug\Desafio_Interfaces_Grupo9.pdb
